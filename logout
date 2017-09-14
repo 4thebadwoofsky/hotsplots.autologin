@@ -1,2 +1,0 @@
-#!/bin/bash
-curl 'http://192.168.44.1/logoff'
