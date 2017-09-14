@@ -1,3 +1,4 @@
+#/usr/bin/phantomjs
 "use strict";
 var page = require('webpage').create();
 var closeFunc = function(){
